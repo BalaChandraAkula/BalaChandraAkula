@@ -86,13 +86,20 @@
 
 ### 📊 GitHub Stats
 
-<!-- <table>
-  <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=BalaChandraAkula&layout=compact&theme=dark&cache_seconds=1800" alt="Top Languages" /></td>
-    <td><img src="https://github-stats.as93.net/api?username=BalaChandraAkula&show_icons=true&theme=dark" alt="GitHub Stats" /></td>
-  </tr>
-</table> -->
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=BalaChandraAkula&theme=github_dark" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com/?user=BalaChandraAkula&theme=dark" alt="GitHub Streak" />
+</p>
+
+---
+
+### 🧑‍💻 Most Used Languages
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=BalaChandraAkula&theme=dark" alt="GitHub Streak" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BalaChandraAkula&theme=github_dark" alt="Repos Per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=BalaChandraAkula&theme=github_dark" alt="Most Commit Language" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BalaChandraAkula&theme=github_dark" alt="Profile Details" />
 </p>
