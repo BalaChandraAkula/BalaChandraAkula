@@ -86,12 +86,12 @@
 
 ### 📊 GitHub Stats
 
-<table>
+<!-- <table>
   <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=BalaChandraAkula&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages" /></td>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=BalaChandraAkula&show_icons=true&locale=en&theme=dark" alt="GitHub Stats" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=BalaChandraAkula&layout=compact&theme=dark&cache_seconds=1800" alt="Top Languages" /></td>
+    <td><img src="https://github-stats.as93.net/api?username=BalaChandraAkula&show_icons=true&theme=dark" alt="GitHub Stats" /></td>
   </tr>
-</table>
+</table> -->
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=BalaChandraAkula&theme=dark" alt="GitHub Streak" />
